@@ -1,0 +1,24 @@
+{
+    "name": "maosea0125/coords",
+    "description": "coords distance and transform",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "maosea0125",
+            "email": "maosea0125@163.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=5.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Coords\\": "src/Coords"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^5.7"
+    }
+}
