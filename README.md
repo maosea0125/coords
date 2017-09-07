@@ -1,7 +1,8 @@
 # coords
 提供了坐标距离计算；百度坐标（BD09）、国测局坐标（火星坐标，GCJ02）、和WGS84坐标系之间的转换
 
-这个是PHP版本的，代码参考：[https://github.com/wandergis/coordtransform](https://github.com/wandergis/coordtransform)
+距离计算代码参考：[https://stackoverflow.com/questions/10053358/measuring-the-distance-between-two-coordinates-in-php](https://stackoverflow.com/questions/10053358/measuring-the-distance-between-two-coordinates-in-php)
+坐标转换代码参考：[https://github.com/wandergis/coordtransform](https://github.com/wandergis/coordtransform)
 
 ****
 
