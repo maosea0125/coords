@@ -9,7 +9,7 @@
             "email": "maosea0125@163.com"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require": {
         "php": ">=5.4"
     },
