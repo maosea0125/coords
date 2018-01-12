@@ -4,7 +4,7 @@ namespace Coords;
 
 class Transform
 {
-    const X_PI = 3.14159265358979324 * 3000.0 / 180.0;
+    const X_PI = 52.359877559829882898;
 
     /** 赤道半径(地球长半轴) */
     const EQUATORIAL_RADIUS = 6378245.0;
